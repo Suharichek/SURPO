@@ -6,5 +6,8 @@
 =======
 Изменение в ветке feature-2
 
+<<<<<<< HEAD
 Новый коммит для rebase 
 >>>>>>> a191bfa (New commit for rebase)
+=======
+>>>>>>> 554c293 (Change line for rebase)
